@@ -8,3 +8,6 @@ for(auto p:a){
 cout<<p<<" ";
 }
 ```
+
+- [x] do this
+- [ ] do that
